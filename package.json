@@ -1,0 +1,17 @@
+{
+  "name": "thing",
+  "version": "1.0.0",
+  "description": "A11y Shooter is a proof of concept game, distributed as a bookmarklet, that\r will turn any page into an interactive shooter. The aim of the game is to\r shoot `alt` tags at images on the page.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^3.11.0"
+  }
+}
