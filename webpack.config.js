@@ -2,12 +2,12 @@ const webpack = require("webpack");
 
 module.exports = {
   entry: [
-      './src/a11y-shooter-assets.js',
-      './src/a11y-shooter.js'
+      __dirname + '/src/a11y-shooter-assets.js',
+      __dirname + '/src/a11y-shooter.js'
   ],
   devtool: "source-map",
   output: {
-    path: "./dist",
+    path: __dirname + "/dist",
     filename: "a11y-shooter.min.js"
   },
   plugins: [
