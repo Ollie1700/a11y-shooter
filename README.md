@@ -15,7 +15,11 @@ A11y Shooter is a [game with a purpose](https://dl.acm.org/citation.cfm?id=13787
 
 *NOTE: This game has only been tested in Google Chrome Version 64.0.3282.167 (Official Build) (64-bit)*
 
+1. [Copy this code](https://raw.githubusercontent.com/Ollie1700/a11y-shooter/master/dist/a11y-shooter.bookmarklet) to the URL contents of a bookmark.
+2. Click the bookmark on any page to activate the game!
 
+## Bugs, Issues and Contributions
+Please don't hesitate to post issues and contributions if you have any!
 
 ## References
 * All content displayed on the test page belongs to [Roy T. Fielding](http://www.ics.uci.edu/~fielding/). It is used purely as dummy content for testing our game.
